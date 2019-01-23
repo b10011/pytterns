@@ -1,0 +1,13 @@
+* Pytterns - Function signature pattern matching
+
+* DONE
+  - Some tests
+  - Pattern matching works in most cases
+  - Filtering works in most cases
+
+* TODO
+  - Actual testing framework instead of assertions
+  - Refactor
+  - Move filtering away from pattern-matching functionality
+  - Documentation
+  - Test if Cython is so much faster that it should be used
